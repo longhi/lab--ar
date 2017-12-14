@@ -1,13 +1,17 @@
 /* Los estilos de tu proyecto */
-.navbar{
+
+.navbar {
   background-color: #fff;
   border-bottom: none;
 }
+
 /*HEADER*/
+
 .nav {
   margin-left: 64em;
 }
-.container-1{
+
+.container-1 {
   background-image: url(../assets/images/taxi.jpg);
   background-size: cover;
   height: 40em;
@@ -15,10 +19,21 @@
   margin: 0;
   padding: 0;
 }
-.sub-container1{
-  background-color:#F7B617;
+
+.sub-container1 {
+  background-color: #F7B617;
   width: 400px;
   height: 300px;
   float: right;
   margin-top: 10em;
+}
+
+.color {
+  color: #fff;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin: 0;
+}
+.color2{
+  padding: 0px 20px;
 }
