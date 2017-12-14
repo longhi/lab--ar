@@ -1,0 +1,24 @@
+/* Los estilos de tu proyecto */
+.navbar{
+  background-color: #fff;
+  border-bottom: none;
+}
+/*HEADER*/
+.nav {
+  margin-left: 64em;
+}
+.container-1{
+  background-image: url(../assets/images/taxi.jpg);
+  background-size: cover;
+  height: 40em;
+  background-position: bottom;
+  margin: 0;
+  padding: 0;
+}
+.sub-container1{
+  background-color:#F7B617;
+  width: 400px;
+  height: 300px;
+  float: right;
+  margin-top: 10em;
+}
