@@ -4,13 +4,6 @@
   background-color: #fff;
   border-bottom: none;
 }
-
-/*HEADER*/
-
-.nav {
-  margin-left: 64em;
-}
-
 .container-1 {
   background-image: url(../assets/images/taxi.jpg);
   background-size: cover;
@@ -36,4 +29,7 @@
 }
 .color2{
   padding: 0px 20px;
+}
+.btn{
+  margin-left: 20px;
 }
