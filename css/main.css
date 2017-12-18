@@ -38,7 +38,7 @@ hr{
   width: 150px;
   display: inline-block;
 }
-.sub-container span{
+.sub-cont span{
    color: #fff;
 }
 /*segundo contenido*/
@@ -48,4 +48,25 @@ hr{
   height: 40em;
   margin: 0;
   padding: 0;
+}
+.sub-container2 {
+  border: 1px solid #fff;
+  border-left: none;
+  height: 70vh;
+  margin-top: 10vh;
+}
+.sub-cont2{
+  margin-top: 20px;
+  width: 90%;
+}
+.images {
+  display: inline-block;
+}
+.texts{
+  display: inline-block;
+  width: 330px;
+  float: right;
+  color: #fff;
+  margin-right: 100px;
+  font-size: 20px
 }
