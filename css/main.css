@@ -70,3 +70,11 @@ hr{
   margin-right: 100px;
   font-size: 20px
 }
+.container-3{
+  background-image: url(../assets/images/conduce.jpg);
+  background-size: cover;
+  height: 35em;
+  background-position: bottom;
+  margin: 0;
+  padding: 0;
+}
