@@ -1,9 +1,10 @@
 /* Los estilos de tu proyecto */
-
+/*header*/
 .navbar {
   background-color: #fff;
   border-bottom: none;
 }
+/*primer contenido*/
 .container-1 {
   background-image: url(../assets/images/taxi.jpg);
   background-size: cover;
@@ -32,4 +33,19 @@
 }
 .btn{
   margin-left: 20px;
+}
+hr{
+  width: 150px;
+  display: inline-block;
+}
+.sub-container span{
+   color: #fff;
+}
+/*segundo contenido*/
+.container-2 {
+  background-color: #F7B617;
+  background-size: cover;
+  height: 40em;
+  margin: 0;
+  padding: 0;
 }
