@@ -1,10 +1,14 @@
 /* Los estilos de tu proyecto */
+
 /*header*/
+
 .navbar {
   background-color: #fff;
   border-bottom: none;
 }
+
 /*primer contenido*/
+
 .container-1 {
   background-image: url(../assets/images/taxi.jpg);
   background-size: cover;
@@ -28,20 +32,26 @@
   padding-top: 20px;
   margin: 0;
 }
-.color2{
+
+.color2 {
   padding: 0px 20px;
 }
-.btn{
+
+.btn {
   margin-left: 20px;
 }
-hr{
+
+.line{
   width: 150px;
   display: inline-block;
 }
-.sub-cont span{
-   color: #fff;
+
+.sub-cont span {
+  color: #fff;
 }
+
 /*segundo contenido*/
+
 .container-2 {
   background-color: #F7B617;
   background-size: cover;
@@ -49,20 +59,24 @@ hr{
   margin: 0;
   padding: 0;
 }
+
 .sub-container2 {
   border: 1px solid #fff;
   border-left: none;
   height: 70vh;
   margin-top: 10vh;
 }
-.sub-cont2{
+
+.sub-cont2 {
   margin-top: 20px;
   width: 90%;
 }
+
 .images {
   display: inline-block;
 }
-.texts{
+
+.texts {
   display: inline-block;
   width: 330px;
   float: right;
@@ -70,7 +84,8 @@ hr{
   margin-right: 100px;
   font-size: 20px
 }
-.container-3{
+
+.container-3 {
   background-image: url(../assets/images/conduce.jpg);
   background-size: cover;
   height: 35em;
@@ -78,29 +93,71 @@ hr{
   margin: 0;
   padding: 0;
 }
-.jumbotron{
-background-color: rgba(0, 0, 0, 0.5);
-  color : #fff;
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
   width: 40%;
   float: right;
   margin-top: 10vh;
 }
-p .btn{
+
+p .btn {
   background-color: #F7B617;
   border: none;
   color: #fff;
 }
-.container-4{
+
+.container-4 {
   background-color: #F7B617;
   background-size: cover;
   height: 35em;
   margin: 0;
   padding: 0;
 }
-.container-5{
+
+.header {
+  width: 300px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.consult {
+  width: 300px;
+  margin-top: 50px;
+}
+
+.map {
+  float: right;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.container-5 {
   background-color: #2B2B2B;
   background-size: cover;
   height: 35em;
   margin: 0;
   padding: 0;
+}
+.imagesLab{
+  margin: 40px 40px 0px;
+}
+.line2{
+  margin-left: 40px;
+}
+.col-xs-4 ul li a {
+  color: #fff;
+}
+.footer-images{
+  margin-top: 100px;
+outline: 1px solid red;
+width: 200px;
+float: right;
+margin-right: 100px;
+}
+.line3{
+margin-top: 400px;
+margin-left: 40px;
+width: 970px;
 }
